@@ -231,7 +231,7 @@ fn app() {
 
 
 fn main() {
-    println!("Welcome to Rust todo list...");
+    println!("Welcome to Rust Todo Console...");
    loop {
     app();
    }
